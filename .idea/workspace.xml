@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe51066e-2d43-4e4c-ac76-f9261a547b87" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DatumDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ListDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ListDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestGet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestGet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DatumDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ListDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ListDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TestGet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestGet.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EPQjQCX99TNxmlqR1eUf2tAqBg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/QA_Automation/MyExercises/FinalExamTask3"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Task1.WithoutPOM" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestGet (1)">
+    <configuration name="TestGet (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalExamTask3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestGet" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalExamTask3" />
+      <option name="PACKAGE_NAME" value="Task3" />
+      <option name="MAIN_CLASS_NAME" value="Task3.TestGet" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalExamTask3" />
+      <option name="PACKAGE_NAME" value="Task3" />
+      <option name="MAIN_CLASS_NAME" value="Task3.TestGet" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalExamTask3" />
+      <option name="PACKAGE_NAME" value="Task3" />
+      <option name="MAIN_CLASS_NAME" value="Task3.TestGet" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGet.getList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalExamTask3" />
+      <option name="PACKAGE_NAME" value="Task3" />
+      <option name="MAIN_CLASS_NAME" value="Task3.TestGet" />
+      <option name="METHOD_NAME" value="getList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGet.putRequest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FinalExamTask3" />
+      <option name="PACKAGE_NAME" value="Task3" />
+      <option name="MAIN_CLASS_NAME" value="Task3.TestGet" />
+      <option name="METHOD_NAME" value="putRequest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestGet (1)" />
+        <item itemvalue="JUnit.TestGet" />
+        <item itemvalue="JUnit.TestGet (1)" />
+        <item itemvalue="JUnit.TestGet.getList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe51066e-2d43-4e4c-ac76-f9261a547b87" name="Changes" comment="" />
+      <created>1662494873615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662494873615</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lecture22and23Homework$Test1__1_.ic" NAME="Test1 (1) Coverage Results" MODIFIED="1662637951508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Lecture22and23Homework" />
+        <module name="Homework27.08" />
+        <module name="Lecture23Homework" />
+        <module name="Homework23_updated" />
+        <module name="FinalExamTask3" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
